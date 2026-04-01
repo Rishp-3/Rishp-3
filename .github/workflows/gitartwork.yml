@@ -1,1 +1,14 @@
+name: gitartwork
+on: 
+  push:
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+          user_name: Rishp-3
+          text: Rishabh
+      - uses: jasineri/simple-push-action@v1
