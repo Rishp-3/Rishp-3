@@ -38,3 +38,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rishp-3&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
+
+
+https://github-profile-trophy.vercel.app/?username=Rishp-3&theme=darkhub&no-frame=true&margin-w=15
