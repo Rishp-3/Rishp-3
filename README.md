@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Rishp-3/Rishp-3/blob/main/gitartwork.svg" />
+</p>
 # 💫 About Me:
 🚀 Passionate Frontend Developer  <br>💻 Skilled in HTML, CSS, JavaScript, React  <br>🌱 Currently exploring Backend (Node.js, Express)  <br>🤝 Open to collaborations & Open Source contributions  <br>💬 Ask me about Web Development  <br>⚡ Fun fact: I turn coffee into code ☕💻
 
