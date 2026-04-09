@@ -23,6 +23,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishp-3&theme=github-dark" />
 </p>
+
+(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishp-3&theme=github_dark)
 ## 🏆 GitHub Trophies
 
 
