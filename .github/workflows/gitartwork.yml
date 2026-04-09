@@ -13,7 +13,7 @@ jobs:
         uses: jasineri/gitartwork@v1
         with:
           user_name: Rishp-3
-          text: Rishabh
+          text: RISHABH
 
       - name: Push changes
         uses: jasineri/simple-push-action@v1
