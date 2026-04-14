@@ -211,44 +211,6 @@
 
 ---
 
-## 🚀 FEATURED PROJECTS
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Rishp-3/portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishp-3&repo=portfolio&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Rishp-3/react-projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishp-3&repo=react-projects&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Rishp-3/ui-components">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishp-3&repo=ui-components&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Rishp-3/dev-connect">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishp-3&repo=dev-connect&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-> 💡 **Note:** Replace the `repo=` values above with your actual repository names so the pin cards render correctly.
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
----
 
 ## 📊 SYSTEM ANALYTICS
 
@@ -264,28 +226,13 @@
 <img src="https://streak-stats.demolab.com/?user=Rishp-3&theme=matrix&hide_border=false&border=00FF41&background=0D1117&ring=00FF41&fire=FF6600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00CC33&dates=AAAAAA&stroke=00FF41" width="62%"/>
 </div>
 
-<br/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rishp-3&show_icons=true&hide_border=false&border_color=00FF41&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" width="47%"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&hide_border=false&border_color=00FF41&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" width="36%"/>
-</div>
 
 <br/>
 
 ### ⏱️ WAKATIME WEEKLY STATS
 
-<div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rishp3&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&layout=compact&hide_border=false" width="60%"/>
-
-> 💡 **Setup WakaTime:** Create an account at [wakatime.com](https://wakatime.com) → install the IDE plugin → add your `WAKATIME_API_KEY` as a GitHub Actions secret → use [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) Action to auto-populate the section above.
-
-</div>
 
 <br/>
 
@@ -328,12 +275,13 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rishp-3/Rishp-3/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rishp-3/Rishp-3/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://github.com/Rishp-3/Rishp-3/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
