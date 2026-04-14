@@ -17,7 +17,7 @@ jobs:
       - name: Update WakaTime Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY}}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TOTAL_CODE_TIME: true
           SHOW_LANGUAGE: true
