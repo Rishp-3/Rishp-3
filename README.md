@@ -275,9 +275,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" width="90%"
+    src="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
