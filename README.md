@@ -307,3 +307,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001400,100:00FF41&height=160&section=footer&text=See+You+In+The+Matrix+👾&fontSize=24&fontColor=00FF41&animation=fadeIn&fontAlignY=70" />
 
 </div>
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rishp3&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&layout=compact&hide_border=false" width="60%"/>
+
+> 💡 Setup WakaTime: Create an account at [wakatime.com](https://wakatime.com) → install the IDE plugin → add your WAKATIME_API_KEY as a GitHub Actions secret → use [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) Action to auto-populate the section above.
+
+</div>
