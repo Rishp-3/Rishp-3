@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001400,100:00FF41&height=260&section=header&text=RISHABH.EXE&fontSize=72&fontColor=00FF41&animation=fadeIn&fontAlignY=42&desc=⚡%20Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20UI%20Architect%20⚡&descAlignY=64&descColor=AAFFAA&descSize=18&stroke=00FF41&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001400,100:00FF41&height=260&section=header&text=RISHABH&fontSize=72&fontColor=00FF41&animation=fadeIn&fontAlignY=42&desc=⚡%20Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20UI%20Architect%20⚡&descAlignY=64&descColor=AAFFAA&descSize=18&stroke=00FF41&strokeWidth=1" />
 
 </div>
 
@@ -30,24 +30,24 @@
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
 ║   ┌─ IDENTITY ──────────────────────────────────────────────┐    ║
-║   │  👤  NAME       ──▶  Rishabh                            │   ║
-║   │  💼  ROLE       ──▶  Frontend Developer                 │   ║
-║   │  🌍  STATUS     ──▶  🟢 ONLINE & OPERATIONAL            │   ║
+║   │  👤  NAME       ──▶  Rishabh                           │    ║
+║   │  💼  ROLE       ──▶  Frontend Developer                │    ║
+║   │  🌍  STATUS     ──▶  🟢 ONLINE & OPERATIONAL          │    ║
 ║   └─────────────────────────────────────────────────────────┘    ║
 ║                                                                  ║
 ║   ┌─ MISSION ───────────────────────────────────────────────┐    ║
-║   │  🔥  PASSION    ──▶  Building clean, responsive UIs     │   ║
-║   │  🌱  LEARNING   ──▶  Node.js + Express (Backend)        │   ║
-║   │  🤝  OPEN TO    ──▶  Collaborations & Open Source       │   ║
-║   │  💬  ASK ME     ──▶  Web Dev · React · UI/UX            │   ║
+║   │  🔥  PASSION    ──▶  Building clean, responsive UIs    │    ║
+║   │  🌱  LEARNING   ──▶  Node.js + Express (Backend)       │    ║
+║   │  🤝  OPEN TO    ──▶  Collaborations & Open Source      │    ║
+║   │  💬  ASK ME     ──▶  Web Dev · React · UI/UX           │    ║
 ║   └─────────────────────────────────────────────────────────┘    ║
 ║                                                                  ║
 ║   ┌─ SYSTEM ────────────────────────────────────────────────┐    ║
 ║   │  ⚡  FUN FACT   ──▶  ☕ Coffee  ──▶  </code> 🚀      │    ║
-║   │  🖥️  OS         ──▶  Arch Linux (btw)                  │   ║
-║   └─────────────────────────────────────────────────────────┘   ║
-║                                                                 ║
-║   ████████████████████████████████████  POWER: 100% 🟢          ║
+║   │  🖥️  OS         ──▶  Arch Linux (btw)                  │    ║
+║   └─────────────────────────────────────────────────────────┘    ║
+║                                                                  ║
+║   ████████████████████████████████████  POWER: 100% 🟢           ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
