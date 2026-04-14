@@ -232,7 +232,17 @@
 
 ### ⏱️ WAKATIME WEEKLY STATS
 
+<div align="center">
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=Rishp3&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&layout=compact&hide_border=false" 
+  width="70%" 
+/>
+
+</div>
 
 <br/>
 
