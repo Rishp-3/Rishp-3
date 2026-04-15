@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001400,100:00FF41&height=260&section=header&text=RISHABH&fontSize=72&fontColor=00FF41&animation=fadeIn&fontAlignY=42&desc=⚡%20Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20UI%20Architect%20⚡&descAlignY=64&descColor=AAFFAA&descSize=18&stroke=00FF41&strokeWidth=1" />
 
 </div>
@@ -304,18 +303,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=640&lines=Thanks+for+visiting+my+profile+%F0%9F%9F%A2;Drop+a+%E2%AD%90+if+you+like+my+work!;Let%27s+build+something+awesome+together+%F0%9F%9A%80;Always+open+to+new+opportunities+%F0%9F%A4%9D" />
 
-<br/><br/>
+<br/>
 
 [![followers](https://img.shields.io/github/followers/Rishp-3?label=Followers&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github)](https://github.com/Rishp-3?tab=followers)
 &nbsp;
 [![stars](https://img.shields.io/github/stars/Rishp-3?label=Total%20Stars&style=for-the-badge&color=FF6600&labelColor=0D1117&logo=github)](https://github.com/Rishp-3?tab=repositories)
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Rishp-3&label=⚡+MATRIX+VISITS&color=00ff41&style=for-the-badge&abbreviated=true" />
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001400,100:00FF41&height=160&section=footer&text=See+You+In+The+Matrix+👾&fontSize=24&fontColor=00FF41&animation=fadeIn&fontAlignY=70" />
-
 </div>
-
-
