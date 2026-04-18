@@ -224,7 +224,12 @@
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=Rishp-3&theme=matrix&hide_border=false&border=00FF41&background=0D1117&ring=00FF41&fire=FF6600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00CC33&dates=AAAAAA&stroke=00FF41" width="62%"/>
 </div>
-
+<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rishp-3&show_icons=true&hide_border=false&border_color=00FF41&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" width="47%"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&hide_border=false&border_color=00FF41&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" width="36%"/>
+</div>
 
 
 <br/>
