@@ -233,12 +233,6 @@
 <!--END_SECTION:waka-->
 
 
-
-![WakaTime placeholder](https://img.shields.io/badge/JavaScript-45%25-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![WakaTime placeholder](https://img.shields.io/badge/React-30%25-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
-![WakaTime placeholder](https://img.shields.io/badge/CSS-15%25-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![WakaTime placeholder](https://img.shields.io/badge/HTML-10%25-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 </div>
 
 <br/>
