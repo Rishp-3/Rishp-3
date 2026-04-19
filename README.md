@@ -229,27 +229,15 @@
 ### ⏱️ WAKATIME WEEKLY STATS
 
 <div align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<!--
-  ━━━ WAKATIME SETUP INSTRUCTIONS ━━━
-  1. Create an account at https://wakatime.com and grab your API key
-  2. Install the WakaTime plugin for your editor (VS Code, JetBrains, etc.)
-  3. Add your WAKATIME_API_KEY to your GitHub repo secrets:
-     GitHub → Settings → Secrets → Actions → New repository secret
-  4. Add the GitHub Action workflow from:
-     https://github.com/athul/waka-readme
-  5. Once set up, replace the placeholder card below with the waka section markers:
-     <!--START_SECTION:waka-->
-     <!--END_SECTION:waka-->
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
--->
+
 
 ![WakaTime placeholder](https://img.shields.io/badge/JavaScript-45%25-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![WakaTime placeholder](https://img.shields.io/badge/React-30%25-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![WakaTime placeholder](https://img.shields.io/badge/CSS-15%25-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![WakaTime placeholder](https://img.shields.io/badge/HTML-10%25-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-> ⚠️ *Connect WakaTime to display live coding stats — see comment above for setup steps.*
 
 </div>
 
