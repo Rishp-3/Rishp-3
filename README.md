@@ -1,6 +1,6 @@
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001400,100:00FF41&height=260&section=header&text=RISHABH&fontSize=72&fontColor=00FF41&animation=fadeIn&fontAlignY=42&desc=⚡%20Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20UI%20Architect%20⚡&descAlignY=64&descColor=AAFFAA&descSize=18&stroke=00FF41&strokeWidth=1" />
-
 </div>
 
 <div align="center">
@@ -15,55 +15,25 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ---
 
 ## ⚡ SYSTEM PROFILE
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                     ⚡  MATRIX  BOOT  ⚡                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   ┌─ IDENTITY ──────────────────────────────────────────────┐    ║
-║   │  👤  NAME       ──▶  Rishabh                           │    ║
-║   │  💼  ROLE       ──▶  Frontend Developer                │    ║
-║   │  🌍  STATUS     ──▶  🟢 ONLINE & OPERATIONAL          │    ║
-║   └─────────────────────────────────────────────────────────┘    ║
-║                                                                  ║
-║   ┌─ MISSION ───────────────────────────────────────────────┐    ║
-║   │  🔥  PASSION    ──▶  Building clean, responsive UIs    │    ║
-║   │  🌱  LEARNING   ──▶  Node.js + Express (Backend)       │    ║
-║   │  🤝  OPEN TO    ──▶  Collaborations & Open Source      │    ║
-║   │  💬  ASK ME     ──▶  Web Dev · React · UI/UX           │    ║
-║   └─────────────────────────────────────────────────────────┘    ║
-║                                                                  ║
-║   ┌─ SYSTEM ────────────────────────────────────────────────┐    ║
-║   │  ⚡  FUN FACT   ──▶  ☕ Coffee  ──▶  </code> 🚀      │    ║
-║   │  🖥️  OS         ──▶  Arch Linux (btw)                  │    ║
-║   └─────────────────────────────────────────────────────────┘    ║
-║                                                                  ║
-║   ████████████████████████████████████  POWER: 100% 🟢          ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+| | |
+|:---|:---|
+| 👤 **Name** | Rishabh |
+| 💼 **Role** | Frontend Developer |
+| 🌍 **Status** | 🟢 Online & Operational |
+| 🔥 **Passion** | Building clean, responsive UIs |
+| 🌱 **Learning** | Node.js + Express (Backend) |
+| 🤝 **Open To** | Collaborations & Open Source |
+| 💬 **Ask Me** | Web Dev · React · UI/UX |
+| ⚡ **Fun Fact** | ☕ Coffee → `</code>` 🚀 |
+| 🖥️ **OS** | Arch Linux (btw) |
 
 </div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb9-7b57-4b18-8f15-9b2e9e50d73b.gif" width="60"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60"/>
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088406-8ab2-4b79-a1aa-a44dd4699857.gif" width="60"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
@@ -71,28 +41,67 @@
 
 <div align="center">
 
-> *I'm a frontend developer who genuinely enjoys turning ideas into interfaces people love to use.*
-> React is my weapon of choice, Tailwind keeps me sane, and coffee keeps me alive. Currently on a journey into the backend with Node.js + Express — because full-stack feels like the final boss and I'm here for it. I believe great UI isn't just pretty pixels; it's empathy compiled into code.
+> *I'm a self-taught frontend developer who fell in love with the web in 2023 and hasn't looked back since.*
+> React is my weapon of choice, Tailwind keeps me sane, and coffee keeps me alive. I gravitate toward UI-heavy projects and developer tools — the kind of things that make other devs go "wait, that's smooth." Currently on a journey into the backend with Node.js + Express, because full-stack feels like the final boss and I'm absolutely here for it. I believe great UI isn't just pretty pixels; it's empathy compiled into code.
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
-## 🚧 CURRENTLY BUILDING
+## 🛣️ CURRENTLY LEARNING
 
 <div align="center">
 
-| 🔨 Project | 🛠️ Stack | 📊 Progress | 🎯 Goal |
-|:---:|:---:|:---:|:---:|
-| **Portfolio v2** | React + Tailwind + Framer Motion | `████████░░` 80% | Sleek personal site with project showcase |
-| **DevConnect** | React + Node.js + Express | `█████░░░░░` 50% | Platform for developers to collaborate |
-| **UI Component Library** | React + Tailwind CSS | `███░░░░░░░` 30% | Reusable, accessible component kit |
+![Node.js](https://img.shields.io/badge/Node.js-✔%20In%20Progress-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+&nbsp;→&nbsp;
+![Express](https://img.shields.io/badge/Express-⟳%20Learning-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+&nbsp;→&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-⏳%20Next-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+&nbsp;→&nbsp;
+![REST APIs](https://img.shields.io/badge/REST%20APIs-⏳%20Next-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+&nbsp;→&nbsp;
+![Full Stack](https://img.shields.io/badge/Full%20Stack-🎯%20Goal-00FF41?style=for-the-badge&logo=stackshare&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+---
+
+## 🚧 PROJECTS IN PROGRESS
+
+<div align="center">
+
+### 🖥️ Portfolio v2
+*A sleek, animated personal portfolio showcasing projects and skills with smooth UI transitions.*
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+
+
+
+---
+
+### 🤝 DevConnect
+*A collaboration platform where developers can find partners, share ideas, and build together.*
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+
+
+---
+
+### 🧩 UI Component Library
+*A reusable, accessible component kit built for React + Tailwind projects with zero-config setup.*
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+
+</div>
 
 ---
 
@@ -114,19 +123,9 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ---
 
 ## 🧠 TECH ARSENAL
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"/>
-
-</div>
-
-<br/>
 
 ### ⚔️ Frontend Combat Stack
 
@@ -141,7 +140,7 @@
 
 </div>
 
-### 🔧 Backend & Devops
+### 🔧 Backend & DevOps
 
 <div align="center">
 
@@ -167,8 +166,6 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap,git,github,c,java&theme=dark&perline=6"/>
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
@@ -205,17 +202,12 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ---
-
 
 ## 📊 SYSTEM ANALYTICS
 
 <div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="340"/>
-
 </div>
 
 <br/>
@@ -223,13 +215,14 @@
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=Rishp-3&theme=matrix&hide_border=false&border=00FF41&background=0D1117&ring=00FF41&fire=FF6600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00CC33&dates=AAAAAA&stroke=00FF41" width="62%"/>
 </div>
-<br>
+
+<br/>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rishp-3&show_icons=true&hide_border=false&border_color=00FF41&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" width="47%"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&hide_border=false&border_color=00FF41&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" width="36%"/>
 </div>
-
 
 <br/>
 
@@ -237,8 +230,27 @@
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--
+  ━━━ WAKATIME SETUP INSTRUCTIONS ━━━
+  1. Create an account at https://wakatime.com and grab your API key
+  2. Install the WakaTime plugin for your editor (VS Code, JetBrains, etc.)
+  3. Add your WAKATIME_API_KEY to your GitHub repo secrets:
+     GitHub → Settings → Secrets → Actions → New repository secret
+  4. Add the GitHub Action workflow from:
+     https://github.com/athul/waka-readme
+  5. Once set up, replace the placeholder card below with the waka section markers:
+     <!--START_SECTION:waka-->
+     <!--END_SECTION:waka-->
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
+
+![WakaTime placeholder](https://img.shields.io/badge/JavaScript-45%25-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![WakaTime placeholder](https://img.shields.io/badge/React-30%25-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![WakaTime placeholder](https://img.shields.io/badge/CSS-15%25-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WakaTime placeholder](https://img.shields.io/badge/HTML-10%25-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+> ⚠️ *Connect WakaTime to display live coding stats — see comment above for setup steps.*
+
 </div>
 
 <br/>
@@ -263,15 +275,13 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishp-3&bg_color=0D1117&color=00FF41&line=00FF41&point=FF6600&hide_border=false&border_color=00FF41&area=true&area_color=003B00&radius=6&custom_title=Rishabh's%20Contribution%20Graph" width="95%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ---
 
 ## 🏆 ACHIEVEMENT TROPHIES
 
 <div align="center">
 
-<img src="https:/github-profile-trophy.vercel.app/?username=Rishp-3&theme=matrix&no-frame=false&row=1&column=6&margin-w=8&margin-h=8" width="96%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rishp-3&theme=matrix&no-frame=false&row=1&column=6&margin-w=8&margin-h=8" width="96%"/>
 
 </div>
 
@@ -292,8 +302,21 @@
 
 </div>
 
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+## 📬 CONTACT ME
+
+<div align="center">
+
+*Open to collaborations, freelance work & full-time opportunities*
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-rp6229553%40gmail.com-%2300FF41?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rp6229553@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishp3)
+
+</div>
 
 ---
 
@@ -308,6 +331,8 @@
 [![stars](https://img.shields.io/github/stars/Rishp-3?label=Total%20Stars&style=for-the-badge&color=FF6600&labelColor=0D1117&logo=github)](https://github.com/Rishp-3?tab=repositories)
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Rishp-3&label=⚡+MATRIX+VISITS&color=00ff41&style=for-the-badge&abbreviated=true" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001400,100:00FF41&height=160&section=footer&text=See+You+In+The+Matrix+👾&fontSize=24&fontColor=00FF41&animation=fadeIn&fontAlignY=70" />
-</div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001400,100:00FF41&height=160&section=footer&text=See+You+In+The+Matrix+👾&fontSize=24&fontColor=00FF41&animation=fadeIn&fontAlignY=70" />
+
+</div>
+```
