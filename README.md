@@ -1,4 +1,3 @@
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001400,100:00FF41&height=260&section=header&text=RISHABH&fontSize=72&fontColor=00FF41&animation=fadeIn&fontAlignY=42&desc=⚡%20Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20UI%20Architect%20⚡&descAlignY=64&descColor=AAFFAA&descSize=18&stroke=00FF41&strokeWidth=1" />
 </div>
