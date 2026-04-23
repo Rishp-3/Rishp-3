@@ -4,6 +4,7 @@
 
 <div align="center">
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&width=720&lines=%3E+SYSTEM+BOOT...+%E2%9C%94+ALL+MODULES+ONLINE;%3E+whoami+%3A%3A+Rishabh+%7C+Frontend+Developer;%3E+specialization+%3A%3A+React+%2B+Responsive+UIs;%3E+current_mission+%3A%3A+Learning+Node.js+%26+Express;%3E+collaboration_mode+%3A%3A+%F0%9F%9F%A2+ACTIVE;%3E+fun_fact+%3A%3A+%E2%98%95+%E2%9E%9C+%3C%2Fcode%3E+%F0%9F%9A%80" />
 
 </div>
