@@ -232,10 +232,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         14 mins               ███████████████▓░░░░░░░░░   62.13 %
-Python       5 mins                ██████▒░░░░░░░░░░░░░░░░░░   24.86 %
-JavaScript   2 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-CSS          0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
