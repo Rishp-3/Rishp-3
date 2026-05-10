@@ -325,4 +325,3 @@ Other        0 secs                ░░░░░░░░░░░░░░░
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001400,100:00FF41&height=160&section=footer&text=See+You+In+The+Matrix+👾&fontSize=24&fontColor=00FF41&animation=fadeIn&fontAlignY=70" />
 
 </div>
-```
