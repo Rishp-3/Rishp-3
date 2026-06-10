@@ -67,41 +67,7 @@
 
 ---
 
-## 🚧 PROJECTS IN PROGRESS
 
-<div align="center">
-
-### 🖥️ Portfolio v2
-*A sleek, animated personal portfolio showcasing projects and skills with smooth UI transitions.*
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white)
-
-
-
----
-
-### 🤝 DevConnect
-*A collaboration platform where developers can find partners, share ideas, and build together.*
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-
-
----
-
-### 🧩 UI Component Library
-*A reusable, accessible component kit built for React + Tailwind projects with zero-config setup.*
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-
-</div>
 
 ---
 
