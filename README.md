@@ -227,6 +227,8 @@ No activity tracked
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishp-3&bg_color=0D1117&color=00FF41&line=00FF41&point=FF6600&hide_border=false&border_color=00FF41&area=true&area_color=003B00&radius=6&custom_title=Rishabh's%20Contribution%20Graph" width="95%"/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 ---
 
 ## 🏆 ACHIEVEMENT TROPHIES
