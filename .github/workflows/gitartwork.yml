@@ -1,19 +1,29 @@
 name: Generate GitHub Contribution Graph Artwork
 
-on: 
+on:
   push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+    
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
       - name: Generate contribution graph SVG
         uses: jasineri/gitartwork@v1
         with:
-          user_name: Rishp-3
+          user_name: rishp-3
           text: RISHABH
 
-      - name: Push changes
-        uses: jasineri/simple-push-action@v1
+      - name: Commit SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update gitartwork.svg"
