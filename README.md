@@ -192,8 +192,6 @@
 ### ⏱️ WAKATIME WEEKLY STATS
 
 <div align="center">
-### ⏱️ WAKATIME WEEKLY STATS
-...
 <!--START_SECTION:waka-->
 
 ```txt
