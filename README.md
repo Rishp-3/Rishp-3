@@ -233,7 +233,7 @@ Markdown   10 mins               ███████▒░░░░░░░�
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rishp-3&theme=matrix&no-frame=false&row=1&column=6&margin-w=8&margin-h=8" width="96%"/>
+<img src="./trophy.svg" width="96%" alt="GitHub Trophies"/>
 
 </div>
 
