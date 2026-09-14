@@ -1,22 +1,18 @@
-name: Update Profile Stats
+name: Activity Graph
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 */12 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  generate-stats:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
+      - uses: actions/checkout@v6
 
-      # 📈 ACTIVITY GRAPH
       - name: Generate Activity Graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
@@ -28,26 +24,15 @@ jobs:
             point=FF6600&
             area=true&
             area_color=003B00&
-            hide_border=true&
-            custom_title=Rishabh's%20Contribution%20Graph
+            hide_border=true
           output_path: activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 🏆 TROPHIES
-      - name: Generate Trophies
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: Rishp-3
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      # 💾 SAVE FILES
-      - name: Commit generated files
+      - name: Commit Activity Graph
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add activity-graph.svg trophy.svg
-
-          git diff --cached --quiet || git commit -m "Update profile stats"
-
+          git add activity-graph.svg
+          git diff --cached --quiet || git commit -m "Update activity graph"
           git push
+          
