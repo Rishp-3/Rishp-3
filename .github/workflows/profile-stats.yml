@@ -1,0 +1,61 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # -------------------------------
+      # 📈 ACTIVITY GRAPH
+      # -------------------------------
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: Rishp-3
+          options: >-
+            bg_color=0D1117&
+            color=00FF41&
+            line=00FF41&
+            point=FF6600&
+            area=true&
+            area_color=003B00&
+            hide_border=true&
+            custom_title=Rishabh's Contribution Graph
+          output_path: activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -------------------------------
+      # 🏆 TROPHIES
+      # -------------------------------
+      - name: Generate Trophies
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Rishp-3
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -------------------------------
+      # 💾 SAVE GENERATED FILES
+      # -------------------------------
+      - name: Commit generated SVG files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add activity-graph.svg trophy.svg
+
+          git diff --cached --quiet || git commit -m "Update profile stats"
+
+          git push
