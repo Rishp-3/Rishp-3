@@ -44,6 +44,15 @@
 ### ⏱️ WakaTime weekly stats
 
 <!--START_SECTION:waka-->
+
+```txt
+HTML         2 hrs 29 mins         ████████▓░░░░░░░░░░░░░░░░   34.73 %
+Java         2 hrs 19 mins         ████████░░░░░░░░░░░░░░░░░   32.36 %
+CSS          1 hr 23 mins          █████░░░░░░░░░░░░░░░░░░░░   19.38 %
+Markdown     28 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Git Config   12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
