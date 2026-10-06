@@ -5,19 +5,26 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
-concurrency:
-  group: readme-update
-  cancel-in-progress: false
-
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+    concurrency:
+      group: readme-update
+      cancel-in-progress: false
     steps:
-      - uses: actions/checkout@v4
       - name: Generate contribution graph SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
+          github_user_name: ${{ github.repository_owner }}
           games: "pacman,breakout"
+
+      - name: Push SVGs to output-arcade branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output-arcade
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
