@@ -1,0 +1,26 @@
+name: Recent Activity
+
+on:
+  schedule:
+    - cron: "15 */6 * * *" # har 6 ghante me
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-update
+  cancel-in-progress: false
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: Rishp-3
+          MAX_LINES: 8
+          COMMIT_MSG: "chore: update recent activity"
