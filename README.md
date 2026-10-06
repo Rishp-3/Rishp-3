@@ -44,9 +44,6 @@
 ### ⏱️ WakaTime weekly stats
 
 <!--START_SECTION:waka-->
-```text
-Your WakaTime block is rewritten here by your existing workflow.
-```
 <!--END_SECTION:waka-->
 
 ---
