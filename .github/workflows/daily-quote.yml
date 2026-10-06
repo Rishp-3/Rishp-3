@@ -1,0 +1,59 @@
+name: Daily Quote & Dev Joke
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # roz subah
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch quote & joke and update README
+        run: |
+          python3 - <<'EOF'
+          import json, re, urllib.request
+
+          def get(url):
+              req = urllib.request.Request(url, headers={"User-Agent": "readme-bot"})
+              with urllib.request.urlopen(req, timeout=20) as r:
+                  return json.load(r)
+
+          try:
+              q = get("https://zenquotes.io/api/random")[0]
+              quote = f'> 💬 *"{q["q"]}"*\n> — **{q["a"]}**'
+          except Exception:
+              quote = '> 💬 *"First, solve the problem. Then, write the code."*\n> — **John Johnson**'
+
+          try:
+              j = get("https://official-joke-api.appspot.com/jokes/programming/random")[0]
+              joke = f'> 😄 {j["setup"]}\n> **{j["punchline"]}**'
+          except Exception:
+              joke = "> 😄 There are 10 types of people: those who understand binary and those who don't."
+
+          block = f"<!--QUOTE:START-->\n{quote}\n\n{joke}\n<!--QUOTE:END-->"
+
+          with open("README.md", encoding="utf-8") as f:
+              text = f.read()
+
+          new = re.sub(r"<!--QUOTE:START-->.*?<!--QUOTE:END-->", lambda m: block, text, flags=re.S)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new)
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || (git commit -m "chore: daily quote & joke" && git push)
