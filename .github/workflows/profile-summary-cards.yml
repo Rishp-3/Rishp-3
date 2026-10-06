@@ -1,0 +1,28 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # roz ek baar
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-update
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Agar "Resource not accessible by integration" error aaye ya private
+          # repos bhi count karne ho, toh PAT bana ke secret me daalo aur niche
+          # ${{ secrets.GITHUB_TOKEN }} ki jagah ${{ secrets.PROFILE_TOKEN }} likho
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
