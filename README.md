@@ -34,10 +34,52 @@
 
 ## 🚀 Projects
 
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| [Project3](https://github.com/Rishp-3/Project3) | 21 React projects collection | React, Vite |
-| [Java-Project](https://github.com/Rishp-3/Java-Project) | Java learning repo — 27 modules, console projects | Java |
+<table align="center">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Rishp-3/21-Frontend-Peroject">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Rishp-3&repo=21-Frontend-Peroject&hide_border=false&border_color=22d3ee&bg_color=0D0E16&title_color=22d3ee&icon_color=a78bfa&text_color=FFFFFF">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Rishp-3&repo=21-Frontend-Peroject&hide_border=false&border_color=0891b2&bg_color=FFFFFF&title_color=0891b2&icon_color=7c3aed&text_color=0F172A">
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=Rishp-3&repo=21-Frontend-Peroject&hide_border=false&border_color=22d3ee&bg_color=0D0E16&title_color=22d3ee&icon_color=a78bfa&text_color=FFFFFF" alt="21-Frontend-Peroject repo card" width="100%"/>
+        </picture>
+      </a>
+      <br/>
+      <b>🚀 21 Frontend Projects</b>
+      <br/>
+      <sub>Vanilla HTML, CSS aur JavaScript mein bane 21 interactive projects, beginner se intermediate level tak.</sub>
+      <br/>
+      <sub>Calculator · Weather App · Expense Tracker · Music Player · Typing Speed Test aur bahut kuch</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <br/><br/>
+      <a href="https://github.com/Rishp-3/21-Frontend-Peroject"><b>View repo →</b></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Rishp-3/Java-Project">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Rishp-3&repo=Java-Project&hide_border=false&border_color=22d3ee&bg_color=0D0E16&title_color=22d3ee&icon_color=a78bfa&text_color=FFFFFF">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Rishp-3&repo=Java-Project&hide_border=false&border_color=0891b2&bg_color=FFFFFF&title_color=0891b2&icon_color=7c3aed&text_color=0F172A">
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=Rishp-3&repo=Java-Project&hide_border=false&border_color=22d3ee&bg_color=0D0E16&title_color=22d3ee&icon_color=a78bfa&text_color=FFFFFF" alt="Java-Project repo card" width="100%"/>
+        </picture>
+      </a>
+      <br/>
+      <b>☕ Java Learning Path</b>
+      <br/>
+      <sub>27 modules, basics se DSA tak, saath mein console-based projects.</sub>
+      <br/>
+      <sub>Step-by-step practice repo for core Java concepts</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/DSA-7c3aed?style=flat-square" alt="DSA"/> <img src="https://img.shields.io/badge/Console_Apps-0891b2?style=flat-square" alt="Console apps"/>
+      <br/><br/>
+      <a href="https://github.com/Rishp-3/Java-Project"><b>View repo →</b></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Aur projects <a href="https://github.com/Rishp-3?tab=repositories">repositories</a> mein hain · ⭐ pasand aaye to star zaroor karo</sub>
+</p>
 
 ---
 
