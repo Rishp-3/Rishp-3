@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # 🔥 IMPORTANT
+  contents: write
 
 jobs:
   snake:
@@ -15,12 +15,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake animation
+      - name: Generate snake animation (light + dark)
         uses: Platane/snk@v3
         with:
           github_user_name: rishp-3
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
