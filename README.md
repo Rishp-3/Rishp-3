@@ -1,17 +1,33 @@
 <p align="center">
-  <img src="hero.svg?v=1" alt="Rishabh — Frontend Developer" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="hero.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="hero-light.svg?v=2">
+    <img src="hero.svg?v=2" alt="Rishabh — Frontend Developer" width="100%"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="about-life.svg?v=1" alt="What I build and what I do for fun" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="about-life.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="about-life-light.svg?v=2">
+    <img src="about-life.svg?v=2" alt="What I build and what I do for fun" width="100%"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="stack.svg?v=1" alt="Tech stack" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="stack.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="stack-light.svg?v=2">
+    <img src="stack.svg?v=2" alt="Tech stack" width="100%"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="id-dashboard.svg?v=1" alt="Developer ID badge and dashboard" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="id-dashboard.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="id-dashboard-light.svg?v=2">
+    <img src="id-dashboard.svg?v=2" alt="Developer ID badge and dashboard" width="100%"/>
+  </picture>
 </p>
 
 ---
@@ -28,17 +44,37 @@
 ## 📊 Live stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rishp-3&theme=dark&hide_border=false&border=22d3ee&background=0D0E16&ring=22d3ee&fire=f472b6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22d3ee&sideLabels=a78bfa&dates=8b8da6&stroke=a78bfa" alt="Streak stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Rishp-3&theme=dark&hide_border=false&border=22d3ee&background=0D0E16&ring=22d3ee&fire=f472b6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22d3ee&sideLabels=a78bfa&dates=8b8da6&stroke=a78bfa">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Rishp-3&theme=default&hide_border=false&border=0891b2&background=FFFFFF&ring=0891b2&fire=db2777&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0891b2&sideLabels=7c3aed&dates=64748b&stroke=7c3aed">
+    <img src="https://streak-stats.demolab.com/?user=Rishp-3&theme=dark&border=22d3ee&background=0D0E16" alt="Streak stats"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img height="190" src="https://github-stats-extended.vercel.app/api?username=Rishp-3&show_icons=true&hide_border=false&border_color=22d3ee&bg_color=0D0E16&title_color=22d3ee&icon_color=a78bfa&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&hide_border=false&border_color=22d3ee&bg_color=0D0E16&title_color=22d3ee&text_color=FFFFFF&langs_count=8" alt="Top languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Rishp-3&show_icons=true&hide_border=false&border_color=22d3ee&bg_color=0D0E16&title_color=22d3ee&icon_color=a78bfa&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Rishp-3&show_icons=true&hide_border=false&border_color=0891b2&bg_color=FFFFFF&title_color=0891b2&icon_color=7c3aed&text_color=0F172A&rank_icon=github&include_all_commits=true&count_private=true">
+    <img height="190" src="https://github-stats-extended.vercel.app/api?username=Rishp-3&show_icons=true&bg_color=0D0E16&title_color=22d3ee&icon_color=a78bfa&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&hide_border=false&border_color=22d3ee&bg_color=0D0E16&title_color=22d3ee&text_color=FFFFFF&langs_count=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&hide_border=false&border_color=0891b2&bg_color=FFFFFF&title_color=0891b2&text_color=0F172A&langs_count=8">
+    <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&bg_color=0D0E16&title_color=22d3ee&text_color=FFFFFF&langs_count=8" alt="Top languages"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishp-3&theme=github_dark&border_color=22d3ee" alt="Repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishp-3&theme=github_dark&border_color=22d3ee" alt="Most commit language"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishp-3&theme=github_dark&border_color=22d3ee">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishp-3&theme=github&border_color=0891b2">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishp-3&theme=github_dark&border_color=22d3ee" alt="Repos per language"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishp-3&theme=github_dark&border_color=22d3ee">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishp-3&theme=github&border_color=0891b2">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishp-3&theme=github_dark&border_color=22d3ee" alt="Most commit language"/>
+  </picture>
 </p>
 
 ### ⏱️ WakaTime weekly stats
@@ -72,15 +108,23 @@ Git Config   12 mins               ▓░░░░░░░░░░░░░░
 ## 🐍 Contribution snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%"/>
+  </picture>
 </p>
-
-
 
 ---
 
 <p align="center">
-  <a href="https://github.com/Rishp-3"><img src="connect.svg?v=1" alt="Connect with me" width="100%"/></a>
+  <a href="https://github.com/Rishp-3">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="connect.svg?v=2">
+      <source media="(prefers-color-scheme: light)" srcset="connect-light.svg?v=2">
+      <img src="connect.svg?v=2" alt="Connect with me" width="100%"/>
+    </picture>
+  </a>
 </p>
 
 <p align="center">
@@ -98,6 +142,16 @@ Git Config   12 mins               ▓░░░░░░░░░░░░░░
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rishp-3?tab=followers"><img src="https://img.shields.io/github/followers/Rishp-3?label=Followers&style=for-the-badge&color=22d3ee&labelColor=0D0E16&logo=github" alt="followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Rishp-3&label=PROFILE+VISITS&color=a78bfa&style=for-the-badge&abbreviated=true" alt="views"/>
+  <a href="https://github.com/Rishp-3?tab=followers">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/Rishp-3?label=Followers&style=for-the-badge&color=22d3ee&labelColor=0D0E16&logo=github">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/Rishp-3?label=Followers&style=for-the-badge&color=0891b2&labelColor=F1F5F9&logo=github&logoColor=0F172A">
+      <img src="https://img.shields.io/github/followers/Rishp-3?label=Followers&style=for-the-badge&color=22d3ee&labelColor=0D0E16&logo=github" alt="followers"/>
+    </picture>
+  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Rishp-3&label=PROFILE+VISITS&color=a78bfa&style=for-the-badge&abbreviated=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Rishp-3&label=PROFILE+VISITS&color=7c3aed&style=for-the-badge&abbreviated=true">
+    <img src="https://komarev.com/ghpvc/?username=Rishp-3&label=PROFILE+VISITS&color=a78bfa&style=for-the-badge&abbreviated=true" alt="views"/>
+  </picture>
 </p>
