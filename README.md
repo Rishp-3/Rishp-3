@@ -135,18 +135,6 @@ CSS          6 mins                ▓░░░░░░░░░░░░░░
 
 ---
 
-## 📈 Activity graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rishp-3/Rishp-3/main/activity-graph.svg" alt="Activity graph" width="100%"/>
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="trophy.svg" alt="GitHub trophies" width="100%"/>
-</p>
-
 ## 🐍 Contribution snake
 
 <p align="center">
