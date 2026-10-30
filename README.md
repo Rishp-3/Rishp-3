@@ -124,8 +124,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   0 secs                █████████████░░░░░░░░░░░░   52.09 %
-HTML   0 secs                ████████████░░░░░░░░░░░░░   47.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
