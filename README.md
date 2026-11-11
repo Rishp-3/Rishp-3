@@ -95,27 +95,27 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Rishp-3&show_icons=true&hide_border=false&border_color=22d3ee&bg_color=0D0E16&title_color=22d3ee&icon_color=a78bfa&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Rishp-3&show_icons=true&hide_border=false&border_color=0891b2&bg_color=FFFFFF&title_color=0891b2&icon_color=7c3aed&text_color=0F172A&rank_icon=github&include_all_commits=true&count_private=true">
-    <img height="190" src="https://github-stats-extended.vercel.app/api?username=Rishp-3&show_icons=true&bg_color=0D0E16&title_color=22d3ee&icon_color=a78bfa&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/3-stats.svg">
+    <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&hide_border=false&border_color=22d3ee&bg_color=0D0E16&title_color=22d3ee&text_color=FFFFFF&langs_count=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&hide_border=false&border_color=0891b2&bg_color=FFFFFF&title_color=0891b2&text_color=0F172A&langs_count=8">
-    <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&bg_color=0D0E16&title_color=22d3ee&text_color=FFFFFF&langs_count=8" alt="Top languages"/>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/4-productive-time.svg">
+    <img src="profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time"/>
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishp-3&theme=github_dark&border_color=22d3ee">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishp-3&theme=github&border_color=0891b2">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishp-3&theme=github_dark&border_color=22d3ee" alt="Repos per language"/>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/1-repos-per-language.svg">
+    <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishp-3&theme=github_dark&border_color=22d3ee">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishp-3&theme=github&border_color=0891b2">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishp-3&theme=github_dark&border_color=22d3ee" alt="Most commit language"/>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/2-most-commit-language.svg">
+    <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language"/>
   </picture>
 </p>
 
@@ -124,20 +124,23 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python     14 mins               ██████████████████░░░░░░░   72.51 %
+Markdown   5 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.71 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
 
 ---
 
-## 🐍 Contribution snake
+## 🏙️ 3D Contribution city
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg">
+    <img src="profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="100%"/>
   </picture>
 </p>
 
