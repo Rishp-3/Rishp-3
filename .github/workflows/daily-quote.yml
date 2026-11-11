@@ -53,7 +53,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Rishabh Pal"
+          git config user.email "174471886+Rishp-3@users.noreply.github.com"
           git add README.md
           git diff --cached --quiet || (git commit -m "chore: daily quote & joke" && git push)
